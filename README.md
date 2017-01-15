@@ -14,7 +14,5 @@ To get started:
 Application will print statistics in the following manner:
 
 Total tweets -> 5.0
-
 Tweets containing odd number of words -> 3.0
-
 Percent of tweets containing odd number of words -> 60.000004
