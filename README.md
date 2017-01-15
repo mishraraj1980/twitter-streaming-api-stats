@@ -4,7 +4,7 @@ Following filters are supported, you can add or update filters in twitter.stream
 - Language - Current implementation is for English.
 - Location - Current implementation is for tweets coming from NY, Chicago or San Francisco.
 
-To get started:
+<b>To get started: </b>
 
 - Clone this repository or download zip
 - Import into your favorite IDE
