@@ -8,8 +8,8 @@ This application connects to twitter streaming API (https://stream.twitter.com/1
 
 - Clone this repository or download zip
 - Import into your favorite IDE
-- Add twitter credentials (consumer key, consumer secret, outh token and outh secret) to the constants defined at the top of twitter.stream.constant.ApplicationConstants.java file. Twitter credentials can be obtained from https://dev.twitter.com/.
-- Run twitter.stream.statistics.TwitterProcessStreamTest.java
+- Add twitter credentials (consumer key, consumer secret, outh token and outh secret) to the constants defined at the top of <b>twitter.stream.constant.ApplicationConstants.java</b> file. Twitter credentials can be obtained from https://dev.twitter.com/.
+- Run <b>twitter.stream.statistics.TwitterProcessStreamTest.java</b>.
 
 <b>Application will print statistics in the following manner:</b>
 
