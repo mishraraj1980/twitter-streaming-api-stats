@@ -11,7 +11,7 @@ Following filters are supported, you can add or update filters in twitter.stream
 - Add twitter credentials (consumer key, consumer secret, outh token and outh secret) to the constants defined at the top of twitter.stream.constant.ApplicationConstants.java file. Twitter credentials can be obtained from https://dev.twitter.com/.
 - Run twitter.stream.statistics.TwitterProcessStreamTest.java
 
-Application will print statistics in the following manner:
+<b>Application will print statistics in the following manner:</b>
 
 Total tweets -> 5.0
 <br/>Tweets containing odd number of words -> 3.0
